@@ -100,7 +100,7 @@ Realizamos **un pequeño y rápido testing** y este fue el feedback que obtuvimo
 
 ***
 
-####CONCLUSIONES
+#### CONCLUSIONES
 
 Todo el proyecto fue una experiencia de aprendizaje y crecimiento constante para nuestro equipo, estamos conscientes que nos falta mucho por aprender lo cual nos motiva a seguir aprendiendo de todos estos procesos de creación de soluciones y productos digitales.
 
@@ -109,7 +109,7 @@ También queremos agradecer a INSITUM por la paciencia al explicarnos más a det
 Finalmente. muchas gracias a todos por dejarnos compartir esta primera y genial experiencia.
 
 ***
-#####EL EQUIPO
+##### EL EQUIPO
 
 * Karol Orrillo | [Linkedin](https://www.linkedin.com/in/karol-orrillo/ "linkedin") - [Github](https://github.com/byOPKY "github") 
 * Jennifer Jara | [Linkedin](https://www.linkedin.com/in/jenniferjara/ "linkedin") - [Github](https://github.com/jenniferjara "github")  
