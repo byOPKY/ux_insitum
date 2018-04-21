@@ -1,5 +1,7 @@
 # Nuestra primera experiencia en un reto de User Experience Design
 
+![Con titulo](assets/pictures/vista-app.png "vista-app")
+
 Durante el curso de User Experience Design en Laboratoria, a nuestro equipo nos dieron la oportunidad de diseñar una solución para INSITUM.
 
 INSITUM es una consultora que brinda talleres de innovación a organizaciones líderes con una metodología centrada en el entendimiento y co-creación alrededor de las personas. Comparten material de información al inicio y al final de sus talleres, también del que se haya desarrollado durante el taller por correo electrónico mediante archivos adjuntos.
